@@ -5,7 +5,7 @@
 .pre:not(.str) .prCd{display:none}
 .pre.str .prTl{display:none;}
 .pre.adv pre{padding-top:60px}
-.preM{position:absolute;top:0;right:0;left:0;width:100%;background: rgba(0,0,0,.04);padding:10px 20px;display:flex;justify-content:space-between;align-items:center;flex-wrap:nowrap;z-index:2}
+.preM{position:absolute;top:0;right:0;left:0;width:90%;background: rgba(0,0,0,.04);padding:10px 20px;display:flex;justify-content:space-between;align-items:center;flex-wrap:nowrap;z-index:2}
 .preT{font-size:14px;font-family: var(--fontC);line-height:1rem;position:relative;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;padding-right:10px;font-weight:bold;color:blue;}
 .preA{display:flex;gap:8px;white-space:nowrap;}
 .preA button{outline:none;border:none;width:30px;height:30px;background:#d9d9d9;padding:0;margin:0;border-radius:50%;transition:border-radius .2s ease;display:inline-flex;align-items:center;justify-content:center;cursor:pointer;}
