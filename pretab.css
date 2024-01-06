@@ -1,5 +1,5 @@
 .pre{background:#f6f6f6;color:#2f3337;direction: ltr;position:relative;border-radius:3px;overflow:hidden;margin:1.0em auto} 
-.pre pre{margin:0;color:inherit;background:inherit;display:block;position:relative;font-size:14px;line-height:1.6em;border-radius:3px;padding:30px 20px 20px;-moz-tab-size:2;tab-size:2;-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;hyphens:none; overflow:auto;direction:ltr;white-space:pre;max-height:300px;} 
+.pre pre{margin:0;color:inherit;background:inherit;display:block;position:relative;font-size:14px;line-height:1.6em;border-radius:3px;padding:30px 20px 20px;-moz-tab-size:2;tab-size:2;-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;hyphens:none;max-height:300px;overflow:auto;direction:ltr;white-space:pre;}
 .pre.adv{border-radius:10px}
 .pre.adv::before{display:none}
 .pre:not(.str) .prCd{display:none}
