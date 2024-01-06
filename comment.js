@@ -3,7 +3,7 @@
  * Recent Comments Widget with Avatar for Blogger
  * Version	: 1.0
  * Author 	: Anhlevan
- * Author Url : https://musicanhlevan.blogspot.com/
+ * Author Url : https://www.anhlevan.tk/
  * (c) 2021 allrightsreserved.
  *
  *	--==Options==--
