@@ -1,10 +1,10 @@
 .pre{background:#f6f6f6;color:#2f3337;direction: ltr;position:relative;border-radius:3px;overflow:hidden;margin:1.0em auto} 
-.pre pre{margin:0;color:inherit;background:inherit;display:block;position:relative;font-size:14px;line-height:1.6em;border-radius:3px;padding:30px 20px 20px;-moz-tab-size:2;tab-size:2;-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;hyphens:none;max-height:300px;overflow:auto;direction:ltr;white-space:pre;}
+.pre pre{margin: 48px 0 0;color:inherit;background:inherit;display:block;position:relative;font-size:14px;line-height:1.6em;border-radius:3px;padding:30px 20px 20px;-moz-tab-size:2;tab-size:2;-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;hyphens:none;max-height:300px;overflow:auto;direction:ltr;white-space:pre;}
 .pre.adv{border-radius:10px}
 .pre.adv::before{display:none}
 .pre:not(.str) .prCd{display:none}
 .pre.str .prTl{display:none;}
-.pre.adv pre{padding-top:60px}
+.pre.adv pre{padding-top:10px}
 .preM{position:absolute;top:0;right:0;left:0;width:100%;background: rgba(0,0,0,.04);padding:6px 20px;display:flex;justify-content:space-between;align-items:center;flex-wrap:nowrap;z-index:2}
 .preT{font-size:16px;font-family: var(--fontC);line-height:1rem;position:relative;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;padding-right:10px;font-weight:bold;color:blue;}
 .preA{display:flex;gap:8px;white-space:nowrap;}
@@ -21,3 +21,4 @@
 .pre pre::-webkit-scrollbar-track{background-color:#f1f1f1;}
 .pre pre::-webkit-scrollbar-thumb{background-color:#888;}
 .pre pre::-webkit-scrollbar-thumb:hover{background:#555;}
+
